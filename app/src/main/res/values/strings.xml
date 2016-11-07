@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">THelloIntents</string>
+
+    <string name="paramI">Explicit Intent (param Input)</string>
+    <string name="paramO">Explicit Intent (param Output1)</string>
+    <string name="paramO2">Explicit Intent (param Output2)</string>
+    <string name="phone">Implicit Intent (phone call)</string>
+    <string name="audio">Implicit Intent (audio file)</string>
+
+    <string name="message">Sending a message</string>
+    <string name="number">Give me a number</string>
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+    <string name="phoneNumber">911</string>
+    <string name="select">Select music</string>
+</resources>
